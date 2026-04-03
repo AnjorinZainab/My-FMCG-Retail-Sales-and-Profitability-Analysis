@@ -3,6 +3,7 @@ FMCG Sales & Profitability Dashboard (Excel)
 📌 Project Description
 
 This project analyzes FMCG retail sales data to uncover trends in revenue, product performance, and regional sales using Microsoft Excel.
+<img width="1603" height="850" alt="image" src="https://github.com/user-attachments/assets/76b0f948-bbdf-4040-80a7-de6fc6543f4e" />
 
 🎯 Objectives
 Analyze sales performance across cities and store formats
